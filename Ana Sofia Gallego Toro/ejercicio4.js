@@ -3,4 +3,4 @@ colaImpresion.shift();
 colaImpresion.push("doc4.txt");
 colaImpresion.shift();
 
-console.log(colaImpresion);s
+console.log(colaImpresion);
